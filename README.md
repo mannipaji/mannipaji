@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @mannipaji
-- 👀 I’m interested in big data technology and data science
-- 🌱 I’m currently learning big data tools such as Apache Spark with their libraries,Hadoop,Sql,NOSQL(Mongo db),Kafka,Flume,Hive/Impala,Python,Numpy,Pandas
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me manpreetsinghsunny20@gmail.com
+👋 Hi, I'm Manpreet Singh
 
-<!---
-mannipaji/mannipaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Big Data Engineer (2.6+ yrs) | ☁️ Cloudera, Snowflake, GCP, Databricks | 🐍 Python, PySpark, SQL, Spark | ⚙️ Airflow, Bash | 📦 Data Warehousing, Modeling (Star/Snowflake)
+
+Pipeline Dev: Python, PySpark, SQL, Spark (RDD, SQL, Streaming)
+Platforms: Cloudera (Hive, Impala, CDSW, Pig, Oozie), Snowflake, GCP, Databricks
+Automation: Airflow, Shell Scripting (Bash)
+Expertise: Data Warehousing, Data Modeling (Star/Snowflake)
+Industry: Supply Chain, Procurement (PTP, I2P, SAP Legacy)
+
+📫 manpreetsinghsunny20@gmail.com
